@@ -86,7 +86,7 @@ def runSimpleLink():
 
     # Exec cefputfile at h1
     nodeName = "h2"
-    command = "cefputfile ccnx:/test -f ./sample-putfile -t 3000 -e 3000 -d ./" + nodeName  + " > cefputfile-log"
+    command = "cefputfile ccnx:/test -f ./sample-putfile.txt -t 3000 -e 3000 -d ./" + nodeName  + " > cefputfile-log"
     print(nodeName, "command:", command)
     net.hosts[2].cmd(command)
     time.sleep(5) # need to wait for cefputfile to be completed 
