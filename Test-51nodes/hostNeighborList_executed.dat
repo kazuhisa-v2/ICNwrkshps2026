@@ -1,0 +1,231 @@
+Neighbors connected to host0:['192.168.1.2', '192.168.2.2', '192.168.3.2']
+NeighborHostId: 1 ip-addr: 192.168.1.2
+NeighborHostId: 2 ip-addr: 192.168.2.2
+NeighborHostId: 3 ip-addr: 192.168.3.2
+Neighbors connected to host1:['192.168.1.1', '192.168.4.2', '192.168.5.2', '192.168.6.2', '192.168.7.2', '192.168.8.2']
+NeighborHostId: 0 ip-addr: 192.168.1.1
+NeighborHostId: 2 ip-addr: 192.168.4.2
+NeighborHostId: 7 ip-addr: 192.168.5.2
+NeighborHostId: 8 ip-addr: 192.168.6.2
+NeighborHostId: 13 ip-addr: 192.168.7.2
+NeighborHostId: 18 ip-addr: 192.168.8.2
+Neighbors connected to host2:['192.168.2.1', '192.168.4.1', '192.168.9.2', '192.168.10.2', '192.168.11.2', '192.168.12.2', '192.168.13.2']
+NeighborHostId: 0 ip-addr: 192.168.2.1
+NeighborHostId: 1 ip-addr: 192.168.4.1
+NeighborHostId: 11 ip-addr: 192.168.9.2
+NeighborHostId: 12 ip-addr: 192.168.10.2
+NeighborHostId: 21 ip-addr: 192.168.11.2
+NeighborHostId: 13 ip-addr: 192.168.12.2
+NeighborHostId: 32 ip-addr: 192.168.13.2
+Neighbors connected to host3:['192.168.3.1', '192.168.14.2', '192.168.15.2', '192.168.16.2', '192.168.17.2']
+NeighborHostId: 0 ip-addr: 192.168.3.1
+NeighborHostId: 5 ip-addr: 192.168.14.2
+NeighborHostId: 6 ip-addr: 192.168.15.2
+NeighborHostId: 19 ip-addr: 192.168.16.2
+NeighborHostId: 36 ip-addr: 192.168.17.2
+Neighbors connected to host4:['192.168.18.2', '192.168.19.2', '192.168.20.2']
+NeighborHostId: 5 ip-addr: 192.168.18.2
+NeighborHostId: 7 ip-addr: 192.168.19.2
+NeighborHostId: 15 ip-addr: 192.168.20.2
+Neighbors connected to host5:['192.168.14.1', '192.168.18.1', '192.168.21.2', '192.168.22.2']
+NeighborHostId: 3 ip-addr: 192.168.14.1
+NeighborHostId: 4 ip-addr: 192.168.18.1
+NeighborHostId: 6 ip-addr: 192.168.21.2
+NeighborHostId: 7 ip-addr: 192.168.22.2
+Neighbors connected to host6:['192.168.15.1', '192.168.21.1', '192.168.23.2']
+NeighborHostId: 3 ip-addr: 192.168.15.1
+NeighborHostId: 5 ip-addr: 192.168.21.1
+NeighborHostId: 40 ip-addr: 192.168.23.2
+Neighbors connected to host7:['192.168.5.1', '192.168.19.1', '192.168.22.1', '192.168.24.2']
+NeighborHostId: 1 ip-addr: 192.168.5.1
+NeighborHostId: 4 ip-addr: 192.168.19.1
+NeighborHostId: 5 ip-addr: 192.168.22.1
+NeighborHostId: 38 ip-addr: 192.168.24.2
+Neighbors connected to host8:['192.168.6.1', '192.168.25.2', '192.168.26.2']
+NeighborHostId: 1 ip-addr: 192.168.6.1
+NeighborHostId: 9 ip-addr: 192.168.25.2
+NeighborHostId: 10 ip-addr: 192.168.26.2
+Neighbors connected to host9:['192.168.25.1', '192.168.27.2', '192.168.28.2', '192.168.29.2']
+NeighborHostId: 8 ip-addr: 192.168.25.1
+NeighborHostId: 10 ip-addr: 192.168.27.2
+NeighborHostId: 38 ip-addr: 192.168.28.2
+NeighborHostId: 37 ip-addr: 192.168.29.2
+Neighbors connected to host10:['192.168.26.1', '192.168.27.1', '192.168.30.2', '192.168.31.2']
+NeighborHostId: 8 ip-addr: 192.168.26.1
+NeighborHostId: 9 ip-addr: 192.168.27.1
+NeighborHostId: 11 ip-addr: 192.168.30.2
+NeighborHostId: 23 ip-addr: 192.168.31.2
+Neighbors connected to host11:['192.168.9.1', '192.168.30.1', '192.168.32.2']
+NeighborHostId: 2 ip-addr: 192.168.9.1
+NeighborHostId: 10 ip-addr: 192.168.30.1
+NeighborHostId: 12 ip-addr: 192.168.32.2
+Neighbors connected to host12:['192.168.10.1', '192.168.32.1', '192.168.33.2']
+NeighborHostId: 2 ip-addr: 192.168.10.1
+NeighborHostId: 11 ip-addr: 192.168.32.1
+NeighborHostId: 21 ip-addr: 192.168.33.2
+Neighbors connected to host13:['192.168.7.1', '192.168.12.1', '192.168.34.2', '192.168.35.2']
+NeighborHostId: 1 ip-addr: 192.168.7.1
+NeighborHostId: 2 ip-addr: 192.168.12.1
+NeighborHostId: 15 ip-addr: 192.168.34.2
+NeighborHostId: 16 ip-addr: 192.168.35.2
+Neighbors connected to host14:['192.168.36.2', '192.168.37.2', '192.168.38.2', '192.168.39.2', '192.168.40.2']
+NeighborHostId: 15 ip-addr: 192.168.36.2
+NeighborHostId: 16 ip-addr: 192.168.37.2
+NeighborHostId: 19 ip-addr: 192.168.38.2
+NeighborHostId: 20 ip-addr: 192.168.39.2
+NeighborHostId: 22 ip-addr: 192.168.40.2
+Neighbors connected to host15:['192.168.20.1', '192.168.34.1', '192.168.36.1', '192.168.41.2']
+NeighborHostId: 4 ip-addr: 192.168.20.1
+NeighborHostId: 13 ip-addr: 192.168.34.1
+NeighborHostId: 14 ip-addr: 192.168.36.1
+NeighborHostId: 16 ip-addr: 192.168.41.2
+Neighbors connected to host16:['192.168.35.1', '192.168.37.1', '192.168.41.1']
+NeighborHostId: 13 ip-addr: 192.168.35.1
+NeighborHostId: 14 ip-addr: 192.168.37.1
+NeighborHostId: 15 ip-addr: 192.168.41.1
+Neighbors connected to host17:['192.168.42.2', '192.168.43.2', '192.168.44.2']
+NeighborHostId: 18 ip-addr: 192.168.42.2
+NeighborHostId: 19 ip-addr: 192.168.43.2
+NeighborHostId: 20 ip-addr: 192.168.44.2
+Neighbors connected to host18:['192.168.8.1', '192.168.42.1']
+NeighborHostId: 1 ip-addr: 192.168.8.1
+NeighborHostId: 17 ip-addr: 192.168.42.1
+Neighbors connected to host19:['192.168.16.1', '192.168.38.1', '192.168.43.1']
+NeighborHostId: 3 ip-addr: 192.168.16.1
+NeighborHostId: 14 ip-addr: 192.168.38.1
+NeighborHostId: 17 ip-addr: 192.168.43.1
+Neighbors connected to host20:['192.168.39.1', '192.168.44.1']
+NeighborHostId: 14 ip-addr: 192.168.39.1
+NeighborHostId: 17 ip-addr: 192.168.44.1
+Neighbors connected to host21:['192.168.11.1', '192.168.33.1', '192.168.45.2', '192.168.46.2', '192.168.47.2', '192.168.48.2', '192.168.49.2']
+NeighborHostId: 2 ip-addr: 192.168.11.1
+NeighborHostId: 12 ip-addr: 192.168.33.1
+NeighborHostId: 23 ip-addr: 192.168.45.2
+NeighborHostId: 26 ip-addr: 192.168.46.2
+NeighborHostId: 31 ip-addr: 192.168.47.2
+NeighborHostId: 32 ip-addr: 192.168.48.2
+NeighborHostId: 36 ip-addr: 192.168.49.2
+Neighbors connected to host22:['192.168.40.1', '192.168.50.2', '192.168.51.2', '192.168.52.2']
+NeighborHostId: 14 ip-addr: 192.168.40.1
+NeighborHostId: 24 ip-addr: 192.168.50.2
+NeighborHostId: 25 ip-addr: 192.168.51.2
+NeighborHostId: 33 ip-addr: 192.168.52.2
+Neighbors connected to host23:['192.168.31.1', '192.168.45.1', '192.168.53.2']
+NeighborHostId: 10 ip-addr: 192.168.31.1
+NeighborHostId: 21 ip-addr: 192.168.45.1
+NeighborHostId: 24 ip-addr: 192.168.53.2
+Neighbors connected to host24:['192.168.50.1', '192.168.53.1', '192.168.54.2']
+NeighborHostId: 22 ip-addr: 192.168.50.1
+NeighborHostId: 23 ip-addr: 192.168.53.1
+NeighborHostId: 35 ip-addr: 192.168.54.2
+Neighbors connected to host25:['192.168.51.1', '192.168.55.2', '192.168.56.2']
+NeighborHostId: 22 ip-addr: 192.168.51.1
+NeighborHostId: 26 ip-addr: 192.168.55.2
+NeighborHostId: 30 ip-addr: 192.168.56.2
+Neighbors connected to host26:['192.168.46.1', '192.168.55.1', '192.168.57.2']
+NeighborHostId: 21 ip-addr: 192.168.46.1
+NeighborHostId: 25 ip-addr: 192.168.55.1
+NeighborHostId: 27 ip-addr: 192.168.57.2
+Neighbors connected to host27:['192.168.57.1', '192.168.58.2', '192.168.59.2', '192.168.60.2']
+NeighborHostId: 26 ip-addr: 192.168.57.1
+NeighborHostId: 29 ip-addr: 192.168.58.2
+NeighborHostId: 28 ip-addr: 192.168.59.2
+NeighborHostId: 31 ip-addr: 192.168.60.2
+Neighbors connected to host28:['192.168.59.1', '192.168.61.2']
+NeighborHostId: 27 ip-addr: 192.168.59.1
+NeighborHostId: 29 ip-addr: 192.168.61.2
+Neighbors connected to host29:['192.168.58.1', '192.168.61.1', '192.168.62.2']
+NeighborHostId: 27 ip-addr: 192.168.58.1
+NeighborHostId: 28 ip-addr: 192.168.61.1
+NeighborHostId: 30 ip-addr: 192.168.62.2
+Neighbors connected to host30:['192.168.56.1', '192.168.62.1', '192.168.63.2']
+NeighborHostId: 25 ip-addr: 192.168.56.1
+NeighborHostId: 29 ip-addr: 192.168.62.1
+NeighborHostId: 33 ip-addr: 192.168.63.2
+Neighbors connected to host31:['192.168.47.1', '192.168.60.1', '192.168.64.2']
+NeighborHostId: 21 ip-addr: 192.168.47.1
+NeighborHostId: 27 ip-addr: 192.168.60.1
+NeighborHostId: 32 ip-addr: 192.168.64.2
+Neighbors connected to host32:['192.168.13.1', '192.168.48.1', '192.168.64.1']
+NeighborHostId: 2 ip-addr: 192.168.13.1
+NeighborHostId: 21 ip-addr: 192.168.48.1
+NeighborHostId: 31 ip-addr: 192.168.64.1
+Neighbors connected to host33:['192.168.52.1', '192.168.63.1', '192.168.65.2']
+NeighborHostId: 22 ip-addr: 192.168.52.1
+NeighborHostId: 30 ip-addr: 192.168.63.1
+NeighborHostId: 34 ip-addr: 192.168.65.2
+Neighbors connected to host34:['192.168.65.1', '192.168.66.2', '192.168.67.2']
+NeighborHostId: 33 ip-addr: 192.168.65.1
+NeighborHostId: 35 ip-addr: 192.168.66.2
+NeighborHostId: 45 ip-addr: 192.168.67.2
+Neighbors connected to host35:['192.168.54.1', '192.168.66.1']
+NeighborHostId: 24 ip-addr: 192.168.54.1
+NeighborHostId: 34 ip-addr: 192.168.66.1
+Neighbors connected to host36:['192.168.17.1', '192.168.49.1', '192.168.68.2', '192.168.69.2', '192.168.70.2', '192.168.71.2', '192.168.72.2', '192.168.73.2', '192.168.74.2']
+NeighborHostId: 3 ip-addr: 192.168.17.1
+NeighborHostId: 21 ip-addr: 192.168.49.1
+NeighborHostId: 37 ip-addr: 192.168.68.2
+NeighborHostId: 38 ip-addr: 192.168.69.2
+NeighborHostId: 39 ip-addr: 192.168.70.2
+NeighborHostId: 41 ip-addr: 192.168.71.2
+NeighborHostId: 42 ip-addr: 192.168.72.2
+NeighborHostId: 45 ip-addr: 192.168.73.2
+NeighborHostId: 46 ip-addr: 192.168.74.2
+Neighbors connected to host37:['192.168.29.1', '192.168.68.1', '192.168.75.2']
+NeighborHostId: 9 ip-addr: 192.168.29.1
+NeighborHostId: 36 ip-addr: 192.168.68.1
+NeighborHostId: 38 ip-addr: 192.168.75.2
+Neighbors connected to host38:['192.168.24.1', '192.168.28.1', '192.168.69.1', '192.168.75.1']
+NeighborHostId: 7 ip-addr: 192.168.24.1
+NeighborHostId: 9 ip-addr: 192.168.28.1
+NeighborHostId: 36 ip-addr: 192.168.69.1
+NeighborHostId: 37 ip-addr: 192.168.75.1
+Neighbors connected to host39:['192.168.70.1', '192.168.76.2']
+NeighborHostId: 36 ip-addr: 192.168.70.1
+NeighborHostId: 40 ip-addr: 192.168.76.2
+Neighbors connected to host40:['192.168.23.1', '192.168.76.1', '192.168.77.2']
+NeighborHostId: 6 ip-addr: 192.168.23.1
+NeighborHostId: 39 ip-addr: 192.168.76.1
+NeighborHostId: 44 ip-addr: 192.168.77.2
+Neighbors connected to host41:['192.168.71.1', '192.168.78.2']
+NeighborHostId: 36 ip-addr: 192.168.71.1
+NeighborHostId: 44 ip-addr: 192.168.78.2
+Neighbors connected to host42:['192.168.72.1', '192.168.79.2', '192.168.80.2', '192.168.81.2', '192.168.82.2']
+NeighborHostId: 36 ip-addr: 192.168.72.1
+NeighborHostId: 43 ip-addr: 192.168.79.2
+NeighborHostId: 44 ip-addr: 192.168.80.2
+NeighborHostId: 45 ip-addr: 192.168.81.2
+NeighborHostId: 47 ip-addr: 192.168.82.2
+Neighbors connected to host43:['192.168.79.1', '192.168.83.2']
+NeighborHostId: 42 ip-addr: 192.168.79.1
+NeighborHostId: 48 ip-addr: 192.168.83.2
+Neighbors connected to host44:['192.168.77.1', '192.168.78.1', '192.168.80.1']
+NeighborHostId: 40 ip-addr: 192.168.77.1
+NeighborHostId: 41 ip-addr: 192.168.78.1
+NeighborHostId: 42 ip-addr: 192.168.80.1
+Neighbors connected to host45:['192.168.67.1', '192.168.73.1', '192.168.81.1', '192.168.84.2', '192.168.85.2', '192.168.86.2']
+NeighborHostId: 34 ip-addr: 192.168.67.1
+NeighborHostId: 36 ip-addr: 192.168.73.1
+NeighborHostId: 42 ip-addr: 192.168.81.1
+NeighborHostId: 46 ip-addr: 192.168.84.2
+NeighborHostId: 49 ip-addr: 192.168.85.2
+NeighborHostId: 50 ip-addr: 192.168.86.2
+Neighbors connected to host46:['192.168.74.1', '192.168.84.1', '192.168.87.2']
+NeighborHostId: 36 ip-addr: 192.168.74.1
+NeighborHostId: 45 ip-addr: 192.168.84.1
+NeighborHostId: 47 ip-addr: 192.168.87.2
+Neighbors connected to host47:['192.168.82.1', '192.168.87.1', '192.168.88.2']
+NeighborHostId: 42 ip-addr: 192.168.82.1
+NeighborHostId: 46 ip-addr: 192.168.87.1
+NeighborHostId: 48 ip-addr: 192.168.88.2
+Neighbors connected to host48:['192.168.83.1', '192.168.88.1', '192.168.89.2']
+NeighborHostId: 43 ip-addr: 192.168.83.1
+NeighborHostId: 47 ip-addr: 192.168.88.1
+NeighborHostId: 50 ip-addr: 192.168.89.2
+Neighbors connected to host49:['192.168.85.1', '192.168.90.2']
+NeighborHostId: 45 ip-addr: 192.168.85.1
+NeighborHostId: 50 ip-addr: 192.168.90.2
+Neighbors connected to host50:['192.168.86.1', '192.168.89.1', '192.168.90.1']
+NeighborHostId: 45 ip-addr: 192.168.86.1
+NeighborHostId: 48 ip-addr: 192.168.89.1
+NeighborHostId: 49 ip-addr: 192.168.90.1
